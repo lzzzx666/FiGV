@@ -27,7 +27,7 @@ For example, the seed prompt file can be like this:
 
 Below are some possible datasets that you can use as seed prompts:
 - [ShareGPT](https://huggingface.co/datasets/RyokoAI/ShareGPT52K)
-- [LMSYS-Chat](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)
+- [LMSYS-Chat](https://huggingface.co/datasets/lmsys/lmsys-chat-1m). We provide synthesized data on this dataset in [`datasets/`](datasets/) folder
 - [Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca)
 - [Open Assistant](https://huggingface.co/datasets/OpenAssistant/oasst2)
 
