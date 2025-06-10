@@ -7,6 +7,8 @@ The system runs in two stages:
 
 * Verified Response Generation – multiple candidate answers are produced and each individual constraint is checked with a hybrid judge that blends LLM reasoning with lightweight, LLM-generated Python functions, giving a reliable “constraint-following” score.
 
+![alt text](./figures/overview.png)
+
 ## Install the dependencies
 
 ```bash
